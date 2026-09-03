@@ -2,7 +2,7 @@
 
 Un contatore interattivo, con interfaccia costruita interamente in JavaScript puro tramite manipolazione del DOM. Nessun framework, nessuna libreria: solo HTML, CSS e JS vanilla.
 
-**🔗 Demo live:** [https://giuseppeb-portfolio.github.io/tally-counter/](https://giuseppeb-portfolio.github.io/tally-counter/)
+   **🔗 Demo live:** [https://giuseppeb-portfolio.github.io/tally-counter/](https://giuseppeb-portfolio.github.io/tally-counter/)
 
 ## Anteprima
 
@@ -62,11 +62,10 @@ Il progetto è statico (HTML/CSS/JS), quindi può essere pubblicato gratuitament
 
 Dopo il deploy, aggiorna il link nella sezione "Demo live" in cima a questo README.
 
-## Autore
 
 ## Autore
 
-Giuseppe B. — [GitHub](https://github.com/GiuseppeB-portfolio)
+   Giuseppe B. — [GitHub](https://github.com/GiuseppeB-portfolio)
 
 ## Licenza
 
