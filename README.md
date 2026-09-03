@@ -2,12 +2,11 @@
 
 Un contatore interattivo, con interfaccia costruita interamente in JavaScript puro tramite manipolazione del DOM. Nessun framework, nessuna libreria: solo HTML, CSS e JS vanilla.
 
-   **🔗 Demo live:** [https://giuseppeb-portfolio.github.io/tally-counter/](https://giuseppeb-portfolio.github.io/tally-counter/)
+**🔗 Demo live:** [https://tuo-utente.github.io/counter-app/](https://tuo-utente.github.io/counter-app/) *(sostituisci con il link reale dopo il deploy — vedi sezione [Deploy](#deploy))*
 
 ## Anteprima
 
-<img width="800" height="642" alt="image" src="https://github.com/user-attachments/assets/6b2100df-6a5e-4f9e-a8d4-9ebb41958108" />
-
+*(inserisci qui uno screenshot dell'app, es. `![Anteprima dell'app](./screenshot.png)`)*
 
 ## Funzionalità
 
@@ -31,12 +30,16 @@ Un contatore interattivo, con interfaccia costruita interamente in JavaScript pu
 ## Struttura del progetto
 
 ```
-counter-app/
-├── index.html      # markup minimale, contiene solo il div #app
-├── style.css        # stili dell'interfaccia
-├── script.js         # logica dell'app: creazione DOM, stato, eventi, localStorage
+tally-counter/
+├── index.html         # markup minimale, contiene solo il div #app
+├── css/
+│   └── style.css      # stili dell'interfaccia
+├── js/
+│   └── script.js       # logica dell'app: creazione DOM, stato, eventi, localStorage
 └── README.md
 ```
+
+Il progetto non utilizza immagini locali (nessuna cartella `img/`): le uniche risorse esterne sono i Google Fonts caricati via CDN.
 
 ## Come eseguire il progetto in locale
 
@@ -62,10 +65,9 @@ Il progetto è statico (HTML/CSS/JS), quindi può essere pubblicato gratuitament
 
 Dopo il deploy, aggiorna il link nella sezione "Demo live" in cima a questo README.
 
-
 ## Autore
 
-   Giuseppe B. — [GitHub](https://github.com/GiuseppeB-portfolio)
+*(il tuo nome / username GitHub / link al profilo)*
 
 ## Licenza
 
