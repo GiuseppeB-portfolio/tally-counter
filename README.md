@@ -2,11 +2,12 @@
 
 Un contatore interattivo, con interfaccia costruita interamente in JavaScript puro tramite manipolazione del DOM. Nessun framework, nessuna libreria: solo HTML, CSS e JS vanilla.
 
-**🔗 Demo live:** [https://tuo-utente.github.io/counter-app/](https://tuo-utente.github.io/counter-app/) *(sostituisci con il link reale dopo il deploy — vedi sezione [Deploy](#deploy))*
+**🔗 Demo live:** [https://tuo-utente.github.io/counter-app/]([https://tuo-utente.github.io/counter-app/](https://giuseppeb-portfolio.github.io/tally-counter/)
 
 ## Anteprima
 
-*(inserisci qui uno screenshot dell'app, es. `![Anteprima dell'app](./screenshot.png)`)*
+<img width="800" height="642" alt="image" src="https://github.com/user-attachments/assets/6b2100df-6a5e-4f9e-a8d4-9ebb41958108" />
+
 
 ## Funzionalità
 
