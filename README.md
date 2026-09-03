@@ -2,7 +2,7 @@
 
 Un contatore interattivo, con interfaccia costruita interamente in JavaScript puro tramite manipolazione del DOM. Nessun framework, nessuna libreria: solo HTML, CSS e JS vanilla.
 
-   **🔗 Demo live:** [https://giuseppeb-portfolio.github.io/tally-counter/](https://giuseppeb-portfolio.github.io/tally-counter/)
+**🔗 Demo live:** [https://giuseppeb-portfolio.github.io/tally-counter/](https://giuseppeb-portfolio.github.io/tally-counter/)
 
 ## Anteprima
 
@@ -28,16 +28,14 @@ Un contatore interattivo, con interfaccia costruita interamente in JavaScript pu
 - [Google Fonts](https://fonts.google.com/) (*Space Grotesk*, *Share Tech Mono*) per la tipografia.
 
 ## Struttura del progetto
-
-```
 tally-counter/
-├── index.html         # markup minimale, contiene solo il div #app
+├── index.html # markup minimale, contiene solo il div #app
 ├── css/
-│   └── style.css      # stili dell'interfaccia
+│ └── style.css # stili dell'interfaccia
 ├── js/
-│   └── script.js       # logica dell'app: creazione DOM, stato, eventi, localStorage
+│ └── script.js # logica dell'app: creazione DOM, stato, eventi, localStorage
 └── README.md
-```
+
 
 Il progetto non utilizza immagini locali (nessuna cartella `img/`): le uniche risorse esterne sono i Google Fonts caricati via CDN.
 
@@ -59,15 +57,13 @@ e poi visitare `http://localhost:8000`.
 
 Il progetto è statico (HTML/CSS/JS), quindi può essere pubblicato gratuitamente su diverse piattaforme:
 
-- **GitHub Pages**: nelle impostazioni del repository, sezione *Pages*, seleziona il branch `main` e la cartella `/root`. Il sito sarà disponibile su `https://<tuo-utente>.github.io/<nome-repo>/`.
+- **GitHub Pages**: nelle impostazioni del repository, sezione *Pages*, seleziona il branch `main` e la cartella `/root`. Il sito è disponibile su `https://giuseppeb-portfolio.github.io/tally-counter/`.
 - **Netlify**: trascina la cartella del progetto su [app.netlify.com/drop](https://app.netlify.com/drop), oppure collega il repository GitHub per il deploy automatico.
 - **Firebase Hosting**: `firebase init hosting` e poi `firebase deploy`.
 
-Dopo il deploy, aggiorna il link nella sezione "Demo live" in cima a questo README.
-
 ## Autore
 
-   Giuseppe B. — [GitHub](https://github.com/GiuseppeB-portfolio)
+Giuseppe B. — [GitHub](https://github.com/GiuseppeB-portfolio)
 
 ## Licenza
 
