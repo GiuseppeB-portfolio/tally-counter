@@ -28,13 +28,16 @@ Un contatore interattivo, con interfaccia costruita interamente in JavaScript pu
 - [Google Fonts](https://fonts.google.com/) (*Space Grotesk*, *Share Tech Mono*) per la tipografia.
 
 ## Struttura del progetto
+
+```
 tally-counter/
-├── index.html # markup minimale, contiene solo il div #app
+├── index.html         # markup minimale, contiene solo il div #app
 ├── css/
-│ └── style.css # stili dell'interfaccia
+│   └── style.css      # stili dell'interfaccia
 ├── js/
-│ └── script.js # logica dell'app: creazione DOM, stato, eventi, localStorage
+│   └── script.js      # logica dell'app: creazione DOM, stato, eventi, localStorage
 └── README.md
+```
 
 
 Il progetto non utilizza immagini locali (nessuna cartella `img/`): le uniche risorse esterne sono i Google Fonts caricati via CDN.
